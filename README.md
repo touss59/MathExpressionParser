@@ -1,3 +1,4 @@
 # MathExpressionParser
-
-The goal of this project is to build a parser and evaluator for basic mathematical expressions and to embrace functional programming in C#.
+Project goals: 
+- Build a parser and evaluator for basic mathematical expressions.
+- Embrace functional programming in C#.
